@@ -1,0 +1,8 @@
+# Required by the brief; this is an unofficial redirect shim, not the SDK itself.
+typesafe-ai==0.1.0
+# Application code imports the official SDK directly.
+typesafe-sdk==0.7.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+rich==14.3.4
+pillow==12.3.0
